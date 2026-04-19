@@ -165,7 +165,3 @@ What is the capital of France?
 ## Conclusion
 This project demonstrates a simple and efficient approach to classifying LLM prompts using FastText. It provides a foundation for building more advanced prompt understanding systems.
 ```
-
----
-
-If you want a **higher-grade README (with diagrams, architecture section, evaluation metrics)**, say so — what you have now is solid but still basic for top-tier submissions.
